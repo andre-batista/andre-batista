@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @andre-batista
 - 👀  I’m interested in algorithms for Microwave Imaging, Electromagnetic Inverse Scattering Problems, Evolutionary Computation, and general optimization.
-- 🌱  I’m currently Ph.D. candidate at Graduate Program of Electrical Engineering, Universidade Federal de Minas Gerais (PPGEE-UFMG).
+- 🌱  I’m currently a Ph.D. candidate at Graduate Program of Electrical Engineering, Universidade Federal de Minas Gerais (PPGEE-UFMG).
 - 📫  How to reach me: andre-costa at ufmg dot br
 
 <!---

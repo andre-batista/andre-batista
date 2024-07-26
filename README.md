@@ -1,4 +1,5 @@
 - 🏛 Professor @ [UFMG](https://ufmg.br/)/[Department of Electrical Engineering](https://dee.ufmg.br/)
+- 🔬Researcher @ [ORCS Lab](https://orcslab.github.io/) (DEE/UFMG)
 - 👀 Optimization + Microwave Imaging + LaTeX
 - 📫 How to reach me: andre-costa at ufmg dot br
 
